@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LaCucaracha</string>
+    <string name="txt_title">Hello world</string>
+    <string name="btn_content">Aceptar</string>
+    <string name="message">Floatting button</string>
+    <string name="txt_action">Text action</string>
+
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+</resources>
